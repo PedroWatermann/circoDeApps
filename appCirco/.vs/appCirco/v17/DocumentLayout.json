@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Just Coding\\2 - Senai\\3 - Emerson\\Visual Studio\\appCirco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2BDA3-862A-4191-8155-F0C3142BE517}|appCirco.csproj|d:\\just coding\\2 - senai\\3 - emerson\\visual studio\\appcirco\\frmviagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF2BDA3-862A-4191-8155-F0C3142BE517}|appCirco.csproj|solutionrelative:frmviagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF2BDA3-862A-4191-8155-F0C3142BE517}|appCirco.csproj|d:\\just coding\\2 - senai\\3 - emerson\\visual studio\\appcirco\\frmviagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEF2BDA3-862A-4191-8155-F0C3142BE517}|appCirco.csproj|solutionrelative:frmviagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{17190a8b-df25-30bf-93e3-9d5ddfe5fef9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{67d15d2e-5bac-311f-82c3-d49feab601fd}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmViagem.cs",
+              "DocumentMoniker": "D:\\Just Coding\\2 - Senai\\3 - Emerson\\Visual Studio\\appCirco\\frmViagem.cs",
+              "RelativeDocumentMoniker": "frmViagem.cs",
+              "ToolTip": "D:\\Just Coding\\2 - Senai\\3 - Emerson\\Visual Studio\\appCirco\\frmViagem.cs",
+              "RelativeToolTip": "frmViagem.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwEMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:08:23.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmViagem.cs [Design]",
+              "DocumentMoniker": "D:\\Just Coding\\2 - Senai\\3 - Emerson\\Visual Studio\\appCirco\\frmViagem.cs",
+              "RelativeDocumentMoniker": "frmViagem.cs",
+              "ToolTip": "D:\\Just Coding\\2 - Senai\\3 - Emerson\\Visual Studio\\appCirco\\frmViagem.cs [Design]",
+              "RelativeToolTip": "frmViagem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:08:16.326Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
